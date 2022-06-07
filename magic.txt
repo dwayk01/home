@@ -1,1 +1,1 @@
-start color a 
+start cd / 
