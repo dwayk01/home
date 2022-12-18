@@ -1,0 +1,26 @@
+body{
+	background-image: url("button.gif");
+	background-color: black;
+	font-family: cursive;
+	font-size: 35px;
+	background-color: black;
+	background-size: 400px 1300px;
+	color: white;
+	text-align: center;
+	background-position: center;
+}
+
+#button{
+	font-size: 25px;
+	color: white;
+	font-family: cursive;
+	background-image: url("https://dwayk01.github.io/share/default.gif");
+	background-size: 155px 100px;
+	background-position: center;
+	border-width: 5xp;
+	border-color: blue;
+	border-radius: 50px;
+	height: 100px;
+	width: 150px;
+
+}
