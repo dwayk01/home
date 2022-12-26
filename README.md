@@ -1,5 +1,8 @@
-###dwayk01
-This is a repository containing my githubpage codes
-I made this repository for my github page only
-You may enjoy my site
-Well wishes
+<h1>dwayk01</h1>
+<p>
+>> This is a repository containing my githubpage codes<br>
+>> I made this repository for my github page only<br>
+>> You may enjoy my site<br>
+>> Well wishes<br>
+<a style="color: red; font-family: cursive;" href="https://dwayk01.github.io/home">my site</a>
+</p>
