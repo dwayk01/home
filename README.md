@@ -4,5 +4,5 @@
 >> I made this repository for my github page only<br>
 >> You may enjoy my site<br>
 >> Well wishes<br>
-<a href="https://dwayk01.github.io/home">my site</a>
+<a href="https://dwayk01.github.io/home" target="_blank">my site</a>
 </p>
